@@ -1,5 +1,5 @@
 # PySpark-Cosine-Similarity
-Pyspark approach to do Cosine-Similarity-Algorithm
+Pyspark program to conduct Cosine-Similarity-Algorithm
 
 ## Task A
 Spark program to find top-k frequently occuring word pairs in the set documents
